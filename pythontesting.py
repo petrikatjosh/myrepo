@@ -11,3 +11,5 @@ def distance(x, y, p = 2):
     return result
 
 print(distance(5, 2, p = 2))
+
+print(distance(1, 3, p = 1))
